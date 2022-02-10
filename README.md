@@ -28,8 +28,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub0x1&layout=compact&theme=radical)](https://github.com/SouchenOu/SouchenOu/blob/main/README.md)
 
 ## 👨‍💻 My 42 status
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=souchen)](https://github.com/SouchenOu/souchenOu/blob/main/README.md)
-[![aymoulou's 42 stats](https://badge42.herokuapp.com/api/stats/souchen?darkmode=true&cursus=42cursus)](https://github.com/SouchenOu/SouchenOu/blob/main/README.md)
+[![souchen's 42 stats](https://badge42.herokuapp.com/api/stats/souchen?darkmode=true&cursus=42cursus)](https://github.com/SouchenOu/SouchenOu/blob/main/README.md)
 
 
 
