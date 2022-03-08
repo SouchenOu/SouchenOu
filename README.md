@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm souchen</h1>
 <h3 align="center">A passionate frontend developer from Morroco</h3>
+---
+Hi there! I'm Ouchen soukaina, an avid self-learner, student at [école 1337](https://www.42.fr/) . I've been passionate about logic since childhood,My interest in web development started back in 2019 When the teacher asked us to do a web project — It was at that time that I learned a little bit about HTML & CSS. but the last years of my life were spent around stages and backstages, until the pandemic arrived in Morroco. In 2020 programming arrived in my life again but in the right way and I'm totally in love with it since then. 
+
+I'm also deeply interested in reading books,knowing other cultures, it would be marvelous to live in different places, tasting different cuisines, getting to know new landscapes and philosophies.
+
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souchen&label=Profile%20views&color=0e75b6&style=flat" alt="souchen" /> </p>
 
