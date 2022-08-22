@@ -33,9 +33,6 @@ I'm also deeply interested in reading books,knowing other cultures, it would be 
 ![souchen's GitHub stats](https://github-readme-stats.vercel.app/api?username=SouchenOu&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SouchenOu&layout=compact&theme=radical)](https://github.com/SouchenOu/SouchenOu/blob/main/README.md)
 
-## 👨‍💻 My 42 status
-[![souchen's 42 stats](https://badge42.herokuapp.com/api/stats/souchen?darkmode=true&cursus=42cursus)](https://github.com/SouchenOu/SouchenOu/blob/main/README.md)
-
 
 <div style="text-align:center">
   <img  align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20My%20name%20Souchen.;Welcome+To%20My%20github%20profile.&font=Fira%20Code&center=true&width=380&height=50" 
@@ -80,6 +77,3 @@ I'm also deeply interested in reading books,knowing other cultures, it would be 
 <a href="https://fb.com/soukainaouchen" target="blank"><img align="center" src="https://raw.githubusercontent.com/SouchenOu/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="SouchenOu" height="30" width="40" /></a>
 <a href="https://instagram.com/souka_inaouchen" target="blank"><img align="center" src="https://raw.githubusercontent.com/SouchenOu/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="SouchenOu" height="30" width="40" /></a>
 </p>
-
-
-</div>
