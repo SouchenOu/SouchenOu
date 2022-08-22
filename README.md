@@ -68,12 +68,4 @@ I'm also deeply interested in reading books,knowing other cultures, it would be 
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SouchenOu&theme=dracula"/>
 </div>
 
-<h2 align='center'><i>Connect with me</i></h2>
 
-<!-- <h3 align="left">:</h3> -->
-<p align="center">
-<a href="https://twitter.com/SoukainaOuchen" target="blank"><img align="center" src="https://raw.githubusercontent.com/SouchenO/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SouchenOu" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/soukaina-ouchen-a4321422b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SouchenOu/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SouchenOu" height="30" width="40" /></a>
-<a href="https://fb.com/soukainaouchen" target="blank"><img align="center" src="https://raw.githubusercontent.com/SouchenOu/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="SouchenOu" height="30" width="40" /></a>
-<a href="https://instagram.com/souka_inaouchen" target="blank"><img align="center" src="https://raw.githubusercontent.com/SouchenOu/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="SouchenOu" height="30" width="40" /></a>
-</p>
