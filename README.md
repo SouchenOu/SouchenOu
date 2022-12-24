@@ -72,7 +72,8 @@ I'm also deeply interested in reading books,knowing other cultures, it would be 
 
 
 
-<img width="733" alt="Screen Shot 2022-12-24 at 4 31 30 PM" src="https://user-images.githubusercontent.com/87101785/209444661-169adbe7-4aa9-4f98-ad7b-6a9dcf136c95.png">
+<img width="769" alt="Screen Shot 2022-12-24 at 5 48 17 PM" src="https://user-images.githubusercontent.com/87101785/209444732-131e2f4b-b2f5-46d3-99aa-8cb2b7c1b548.png">
+
 
 
 
