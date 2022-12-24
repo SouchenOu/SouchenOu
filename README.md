@@ -69,3 +69,10 @@ I'm also deeply interested in reading books,knowing other cultures, it would be 
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SouchenOu&theme=dracula"/>
 </div>
 
+
+
+[cv frensh.pdf](https://github.com/SouchenOu/SouchenOu/files/10298904/cv.frensh.pdf)
+
+
+
+
