@@ -71,7 +71,8 @@ I'm also deeply interested in reading books,knowing other cultures, it would be 
 
 
 
-[cv frensh.pdf](https://github.com/SouchenOu/SouchenOu/files/10298904/cv.frensh.pdf)
+
+<img width="733" alt="Screen Shot 2022-12-24 at 4 31 30 PM" src="https://user-images.githubusercontent.com/87101785/209444661-169adbe7-4aa9-4f98-ad7b-6a9dcf136c95.png">
 
 
 
