@@ -9,13 +9,13 @@ I'm also deeply interested in reading books,knowing other cultures, it would be 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souchen&label=Profile%20views&color=0e75b6&style=flat" alt="souchen" /> </p>
 
-- 🔭 I’m currently working on **webserv**
+- 🔭 I’m currently working on **ft_transcandance**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **NestJs and NextJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SouchenOu](https://github.com/SouchenOu)
 
-- 💬 Ask me about **html,css and js**
+- 💬 Ask me about **NestJs and React*
 
 - 📫 How to contact me **soukainaouchenuai@gmail.com**
 
