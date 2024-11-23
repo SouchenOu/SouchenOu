@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm souchen</h1>
 <h3 align="center">A passionate frontend developer from Morroco</h3>
 ---
-Hi there! I'm Ouchen soukaina, an avid self-learner, student at [école 1337](https://www.42.fr/) . I've been passionate about logic since childhood,My interest in web development started back in 2019 When the teacher asked us to do a web project — It was at that time that I learned a little bit about HTML & CSS. but the last years of my life were spent around stages and backstages, until the pandemic arrived in Morroco. In 2020 programming arrived in my life again but in the right way and I'm totally in love with it since then. 
+My name is Soukaina Ouchen, and I am a passionate MERN Stack Developer with experience in building dynamic, responsive, and scalable web applications. I specialize in MongoDB, Express.js, React.js, Next.js, Nest.js and Node.js, and I am skilled in creating end-to-end solutions that deliver seamless user experiences.
 
-I'm also deeply interested in reading books,knowing other cultures, it would be marvelous to live in different places, tasting different cuisines, getting to know new landscapes and philosophies.
+With a focus on clean code and efficient problem-solving, I enjoy tackling complex challenges and working with teams to deliver high-quality software solutions. I'm always eager to expand my skills and collaborate on innovative projects.
+
+Feel free to check out my portfolio and GitHub to see some of the projects I've worked on.
 
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souchen&label=Profile%20views&color=0e75b6&style=flat" alt="souchen" /> </p>
 
-- 🔭 I’m currently working on **Chat application**
-
-- 🌱 I’m currently learning **NestJs and NextJs**
+- 🔭 I’m currently working on **Ecommerce application**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SouchenOu](https://github.com/SouchenOu)
 
-- 💬 Ask me about **NestJs and React*
+- 💬 Ask me about **NestJs and ReactJs*
 
 - 📫 How to contact me **soukainaouchenuai@gmail.com**
 
