@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm souchen</h1>
-<h3 align="center">A passionate frontend developer from Morroco</h3>
----
+<h1 align="center">Hi 👋, I'm ouchen soukaina</h1>
+<h3 align="center">A passionate Full Stack developer from Morroco</h3>
 My name is Soukaina Ouchen, and I am a passionate MERN Stack Developer with experience in building dynamic, responsive, and scalable web applications. I specialize in MongoDB, Express.js, React.js, Next.js, Nest.js and Node.js, and I am skilled in creating end-to-end solutions that deliver seamless user experiences.
 
 With a focus on clean code and efficient problem-solving, I enjoy tackling complex challenges and working with teams to deliver high-quality software solutions. I'm always eager to expand my skills and collaborate on innovative projects.
